@@ -81,8 +81,14 @@ Resultado Final do Lovable: https://ask-finances-friend.lovable.app
 
   
 ## Reflexão
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
+
+  - O que funcionou bem?
+    A interação com o Copilot foi muito gradificante e produtiva, mesmo eu não tendo muito conhecimento na área de desenvolvimento.
+     
+  - O que não funcionou como o esperado?
+    A interção com o Lovable deixou a desejar em vários astectos, mas entendo que a minha falta de conhecimento em desenvolvimento contribuiu muito. E, tive alguns problemas técnicos, por isso, tive que enviar o print do site de finanças pelo smartphone. Agradeço pela compreensão. =D
+     
   - O que aprendeu sobre conversar com IAs?
+    Que conhecimento é tudo! Quanto mais sabe, mais fácil fica o entendimento com a IA. E, que a língua inglesa é fundamental para agilidade nos processos.
 
 
