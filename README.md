@@ -69,7 +69,7 @@ Resultado Final do Lovable: https://ask-finances-friend.lovable.app
 ## Reflexão
 
   - O que funcionou bem?
-    A interação com o Copilot foi muito gradificante e produtiva, mesmo eu não tendo muito conhecimento na área de desenvolvimento.
+    A interação com o Copilot foi muito gradificante e produtiva, mesmo eu não tendo conhecimento na área de desenvolvimento.
      
   - O que não funcionou como o esperado?
     A interção com o Lovable deixou a desejar em vários astectos, mas entendo que a minha falta de conhecimento em desenvolvimento contribuiu muito. E, tive alguns problemas técnicos, por isso, tive que enviar o print do site de finanças pelo smartphone.
