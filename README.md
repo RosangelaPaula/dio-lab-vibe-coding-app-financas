@@ -79,16 +79,10 @@ Resultado Final do Lovable: https://ask-finances-friend.lovable.app
 ![Screenshot_20260112_223734_Samsung Internet](https://github.com/user-attachments/assets/cce90921-1116-4f25-bfa2-80a05926334f)
 
 
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
+  
+## Reflexão
   - O que funcionou bem?  
   - O que não funcionou como o esperado?  
   - O que aprendeu sobre conversar com IAs?
 
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
 
-## 💬 Conclusão
-
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
