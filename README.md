@@ -71,7 +71,7 @@ Resultado Final do Lovable: https://ask-finances-friend.lovable.app
     A interação com o Copilot foi muito gradificante e produtiva, mesmo não tendo conhecimento na área de desenvolvimento.
      
   - O que não funcionou como o esperado?
-    A interção com o Lovable foi desafiador em vários astectos, mas entendo que a minha falta de conhecimento básico em desenvolvimento contribuiu muito. E, devido a alguns problemas técnicos, enviei o print do site de finanças pelo smartphone.
+    A interção com o Lovable foi desafiador, mas entendo que a minha falta de conhecimento básico em desenvolvimento contribuiu muito. E, devido a alguns problemas técnicos, enviei o print do site de finanças pelo smartphone.
      
   - O que aprendeu sobre conversar com IAs?
     Que conhecimento é tudo! Quanto mais conhecimento temos, mais fácil fica a interação com a IA. E, que a língua inglesa é fundamental para agilidade nos processos.
