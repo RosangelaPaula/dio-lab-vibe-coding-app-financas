@@ -76,6 +76,7 @@ Estamos tentando corrigir todos os problemas de segurança identificados.
 
 Resultado Final do Lovable: https://ask-finances-friend.lovable.app 
 
+![Screenshot_20260112_223734_Samsung Internet](https://github.com/user-attachments/assets/cce90921-1116-4f25-bfa2-80a05926334f)
 
 
 - Prints ou pequenos vídeos das interações com a IA;  
