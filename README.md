@@ -1,5 +1,5 @@
 # App - Finanças Pessoais com Vibe Coding  
-**Autora: Rosângela Paula**  
+**Desafio DIO / Bootcamp Caixa - Rosângela Paula**
 
 ---
 
