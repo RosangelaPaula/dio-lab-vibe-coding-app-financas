@@ -51,29 +51,15 @@ Interações com o Lovable:
 
 > Crie um APP de Finanças Pessoais, com base no seguinte PRD (Product Requirement Document). [PRD]
 >
-> Implementar o plano completo do app de finanças pessoais conforme descrito
->
-> Permitido
->
-> Testar o chat de finanças enviando uma mensagem de teste
->
-> Adicionar funcionalidade para o chat criar transações automaticamente no banco de dados
->
 > Estou tendo problemas com a Função Edge atual. Pode resolver para mim?
 >
-> Na página "relatórios financeiros", não estão aparecendo as informações que informei ao chat. Pode verificar e resolver, por favor?
->
-> Permitido
+> Na página "relatórios financeiros", não estão aparecendo as informações que informei ao chat. Poderia verificar e resolver, por favor?
 >
 > Olá, adorável! Gostaria que você fizesse algumas alterações no APP, tais como: 1) Mantenha o câmbio estático, mas com atualização automática. 2) Quando eu solicitar ao Chat para "guardar na Meta (indicada)", retire o valor do Saldo, transfira para a Meta (indicada), descreva no Relatório de Finanças como Meta. 3) Traduza os subtítulos no idioma solicitado. 4) Converta automaticamente o valor da moeda solicitada.
 >
-> Corrija todos os problemas de segurança.
-Estamos tentando corrigir todos os problemas de segurança identificados.
->
-> Corrija os problemas de segurança restantes (níveis de erro e aviso) - a falha na autenticação da função de borda e as mensagens de erro detalhadas.
->
 > Execute uma nova verificação de segurança para verificar todas as correções e procurar por quaisquer vulnerabilidades restantes.
-
+>
+> 
 Resultado Final do Lovable: https://ask-finances-friend.lovable.app 
 
 ![Screenshot_20260112_223734_Samsung Internet](https://github.com/user-attachments/assets/cce90921-1116-4f25-bfa2-80a05926334f)
@@ -86,7 +72,7 @@ Resultado Final do Lovable: https://ask-finances-friend.lovable.app
     A interação com o Copilot foi muito gradificante e produtiva, mesmo eu não tendo muito conhecimento na área de desenvolvimento.
      
   - O que não funcionou como o esperado?
-    A interção com o Lovable deixou a desejar em vários astectos, mas entendo que a minha falta de conhecimento em desenvolvimento contribuiu muito. E, tive alguns problemas técnicos, por isso, tive que enviar o print do site de finanças pelo smartphone. Grata pela compreensão. =D
+    A interção com o Lovable deixou a desejar em vários astectos, mas entendo que a minha falta de conhecimento em desenvolvimento contribuiu muito. E, tive alguns problemas técnicos, por isso, tive que enviar o print do site de finanças pelo smartphone.
      
   - O que aprendeu sobre conversar com IAs?
     Que conhecimento é tudo! Quanto mais sabe, mais fácil fica o entendimento com a IA. E, que a língua inglesa é fundamental para agilidade nos processos.
